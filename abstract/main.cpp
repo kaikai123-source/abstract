@@ -15,7 +15,7 @@ int main() {
 			medianBlur(src, dst, 3);
 			imshow("src", src);
 			imshow("dst", dst);
-			waitKey(0);
+			waitKey(30);
 		}
 			
 		
